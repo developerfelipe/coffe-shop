@@ -13,6 +13,9 @@ export default function BlogList() {
                             title
                             date(formatString: "MMMM D, YYYY")
                         }
+                        fields {
+                            slug
+                        }
                         excerpt
                     }
                 }
@@ -25,6 +28,7 @@ export default function BlogList() {
             {data.allMarkdownRemark.edges.map(entry => (
                 <BLogEntry
                     key={entry.node.id} 
+                    slug ={entry.node.fields.slug}
                     title={entry.node.frontmatter.title}
                     date={entry.node.frontmatter.date}
                     excerpt={entry.node.excerpt} />
