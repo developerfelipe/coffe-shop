@@ -1,6 +1,7 @@
 ---
 title: Creating our environment
 date: 2021-01-06T03:51:54.690Z
+contentKey: blog
 ---
 <!--StartFragment-->
 

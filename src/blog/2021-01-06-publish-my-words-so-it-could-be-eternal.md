@@ -1,6 +1,7 @@
 ---
 title: Publish my words so it could be eternal
 date: 2021-01-06T03:53:18.748Z
+contentKey: blog
 ---
 <!--StartFragment-->
 

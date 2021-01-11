@@ -1,6 +1,7 @@
 ---
 title: Adding the character
 date: 2021-01-06T03:50:49.040Z
+contentKey: blog
 ---
 <!--StartFragment-->
 

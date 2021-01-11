@@ -1,6 +1,7 @@
 ---
 title: What is Lorem Ipsum?
 date: 2021-01-06T03:48:47.410Z
+contentKey: blog
 ---
 <!--StartFragment-->
 
