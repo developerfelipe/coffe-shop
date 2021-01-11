@@ -20,7 +20,7 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - fiels: "src/pageData/index.md"
+      - file: "src/pageData/index.md"
         label: "Index Page"
         name: "index-page"
         fields:
